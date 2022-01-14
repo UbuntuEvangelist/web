@@ -4037,7 +4037,7 @@
     global "^4.4.0"
     html-webpack-plugin "^4.0.0"
     pnp-webpack-plugin "1.6.4"
-    postcss "^7.0.36"
+    postcss "^8.2.13"
     postcss-flexbugs-fixes "^4.2.1"
     postcss-loader "^4.2.0"
     raw-loader "^4.0.2"
@@ -17608,7 +17608,7 @@ resolve-url-loader@^4.0.0:
     adjust-sourcemap-loader "^4.0.0"
     convert-source-map "^1.7.0"
     loader-utils "^2.0.0"
-    postcss "^7.0.35"
+    postcss "^8.2.13"
     source-map "0.6.1"
 
 resolve-url@^0.2.1:
